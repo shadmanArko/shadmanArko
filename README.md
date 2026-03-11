@@ -1,44 +1,27 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     GitHub Profile README — shadmanArko
-     Repository: shadmanArko/shadmanArko (special profile repo)
-     To use: Create a repo named exactly "shadmanArko" on GitHub,
-             paste this file as README.md, and commit.
-     ═══════════════════════════════════════════════════════════════ -->
-
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║                  ANIMATED HEADER                    ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════
+     GitHub Profile — shadmanArko
+     Repo: Create a repo named exactly "shadmanArko" on GitHub
+     and paste this as README.md
+     ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SHADMAN%20ARKO&fontSize=60&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Game%20Developer%20%C2%B7%20System%20Architect&descAlignY=58&descSize=16&descColor=E8A87C" width="100%" />
-
-</div>
-
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║                  TYPING ANIMATION                   ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E8640A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🎮+Building+worlds+from+code...;🚀+100%2C000%2B+daily+players+trust+my+work;🥽+VR+systems+used+by+real+soldiers;🏆+93%25+positive+on+Steam;⚡+6+years+%C2%B7+20%2B+shipped+projects;🌍+Dhaka+→+Berlin+%C2%B7+Still+building" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:0D1117&height=180&section=header&text=SHADMAN%20ARKO&fontSize=58&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Game%20Engineer%20%E2%80%94%20System%20Architect%20%E2%80%94%20World%20Builder&descSize=15&descAlignY=65&descColor=E8A87C&fontStyle=bold" width="100%" />
 
 </div>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║               SOCIAL BADGES ROW                     ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
+<!-- Social row -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shadman%20Arko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadman-arko-6a15179a)
-[![Email](https://img.shields.io/badge/Email-shadman.arko%40gmail.com-E8640A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadman.arko@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Berlin%2C%20Germany-1B2A4A?style=for-the-badge)](https://github.com/shadmanArko)
-[![Profile Views](https://komarev.com/ghpvc/?username=shadmanArko&style=for-the-badge&color=E8640A&label=PROFILE+VIEWS)](https://github.com/shadmanArko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=Shadman%20Arko)](https://www.linkedin.com/in/shadman-arko-6a15179a)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-E8640A?style=flat-square&logo=gmail&logoColor=white&label=shadman.arko)](mailto:shadman.arko@gmail.com)
+&nbsp;
+[![Location](https://img.shields.io/badge/Berlin%2C%20Germany-1B2A4A?style=flat-square&logo=googlemaps&logoColor=white&label=📍)](https://github.com/shadmanArko)
+&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=shadmanArko&style=flat-square&color=E8640A&label=profile+views)](https://github.com/shadmanArko)
 
 </div>
 
@@ -46,50 +29,76 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║                 THE STORY — WHO I AM                ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<br/>
 
-## 🌌 &nbsp; The Story
+<!-- ─────────────────────────────────────────────
+     THE STORY
+     ───────────────────────────────────────────── -->
 
-```
-Some people write code.
-I build worlds.
-```
-
-> *Dhaka, 2019. A university student submits a VR game to the NASA Space Apps Challenge.*
-> *His team — Ducks in Disguise — reaches the global top 10.*
-> *He is 22. He finally understands the scale of what code can reach.*
-
-Six years and twenty projects later, I am a **Unity developer at Kolibri Games (Ubisoft Mobile)** in Berlin — shipping features for **Idle Miner Tycoon**, a live mobile game played by **100,000+ people every single day**. Every line I push reaches real hands within hours.
-
-Before that, I **led a 9-person team** at Red Thorn Interactive from whiteboard to multi-platform launch. *Museum Keeper* shipped to Windows, macOS, Linux, and Nintendo Switch — earning **93% positive reviews on Steam**. I have also built **VR combat training systems used by the Bangladesh Army**, fire-safety simulators for Australian clients, and AR applications that made the real world feel like it had a layer of magic running underneath it.
-
-The technology changes with every project. The question underneath it never does:
+<div align="center">
 
 ```
-What should this feel like?
+  Some people write code.
+  I build worlds.
 ```
+
+</div>
+
+<br/>
+
+I am a **Software Engineer and Game Developer** with **6+ years** of professional experience — currently a Unity developer at **Kolibri Games, part of Ubisoft Mobile**, working on *Idle Miner Tycoon* in **Berlin**.
+
+My career began in Dhaka, Bangladesh, building augmented reality applications for enterprise clients — learning early that the most powerful thing code can do is make people *feel* something they did not expect to feel. That conviction has driven every project since.
+
+In 2019, my team submitted a VR Mars survival game to the **NASA Space Apps Challenge** and reached the **global top 10**. It was the moment I understood the scale of what interactive experiences can reach.
+
+Since then I have shipped across almost every frontier the medium offers:
+
+- 🏭 &nbsp; **Live mobile games** with 100,000+ daily active users at Ubisoft Mobile
+- 🏛️ &nbsp; **Multi-platform PC titles** earning 93% positive reviews on Steam
+- 🎖️ &nbsp; **Military VR simulators** deployed for real operational training
+- 🥽 &nbsp; **Enterprise AR/VR applications** for clients across Australia and Bangladesh
+- 🚀 &nbsp; **Award-recognised projects** using real NASA open data
+
+I have led nine-person cross-functional teams from whiteboard to launch, architected game systems from scratch, and written features that land in players' hands the same day they are committed. I care deeply about the craft — about systems that are clean, products that ship, and experiences that stay with people.
+
+The technology changes with every project. The question underneath never does: ***what should this feel like?***
 
 <br/>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║               QUICK STATS ROW                       ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<br/>
 
-## ⚡ &nbsp; By The Numbers
+<!-- ─────────────────────────────────────────────
+     BY THE NUMBERS
+     ───────────────────────────────────────────── -->
 
 <div align="center">
 
-| 🎮 Projects Shipped | 👥 Daily Active Users | ⭐ Steam Rating | 🌍 Years of Experience |
-|:---:|:---:|:---:|:---:|
-| **20+** | **100,000+** | **93% Positive** | **6+** |
+### ⚡ &nbsp; By The Numbers
 
-| 🥽 VR/AR Apps | 🎖️ Military Simulators | 🌐 Platforms | 🏆 NASA Space Apps |
-|:---:|:---:|:---:|:---:|
-| **Multiple** | **2** | **iOS · Android · PC · Switch · PS5 · Xbox** | **Top 10 Global** |
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/20+-Projects%20Shipped-E8640A?style=for-the-badge" /><br/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/100K+-Daily%20Active%20Users-1B2A4A?style=for-the-badge" /><br/>
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/93%25-Steam%20Positive-2ea44f?style=for-the-badge" /><br/>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/Top%2010-NASA%20Global-0B3D91?style=for-the-badge" /><br/>
+    </td>
+    <td align="center" width="160">
+      <img src="https://img.shields.io/badge/6+-Years%20Experience-374151?style=for-the-badge" /><br/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -97,26 +106,126 @@ What should this feel like?
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║                  TECH STACK                         ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<br/>
 
-## 🛠️ &nbsp; Tech Stack & Tools
+<!-- ─────────────────────────────────────────────
+     FEATURED WORK
+     ───────────────────────────────────────────── -->
 
-**🎮 Game Development**
+### 🚀 &nbsp; Featured Work
 
-<div align="left">
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<h4>🏭 &nbsp; Idle Miner Tycoon &nbsp; <a href="https://play.google.com/store/apps/details?id=com.kolibrigames.idleminertycoon"><img src="https://img.shields.io/badge/Live-34A853?style=flat-square&logo=google-play&logoColor=white" /></a></h4>
+
+**Kolibri Games · Ubisoft Mobile &nbsp;|&nbsp; 2025 → Present**
+
+Live mobile tycoon with **100,000+ daily active users**. Feature development, tool building, LiveOps support, and client-backend integration across iOS and Android.
+
+![Unity](https://img.shields.io/badge/Unity-555?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+<h4>🏛️ &nbsp; Museum Keeper &nbsp; <a href="https://store.steampowered.com/app/2708780/Museum_Keeper/"><img src="https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white" /></a> &nbsp; <img src="https://img.shields.io/badge/93%25%20Positive-2ea44f?style=flat-square" /></h4>
+
+**Red Thorn Interactive &nbsp;|&nbsp; 2024**
+
+Museum management tycoon — **Windows, macOS, Linux, Nintendo Switch**. Led a 9-person team as system architect, lead programmer, and project manager from concept to launch.
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h4>🎖️ &nbsp; SAFS — Military VR Simulator &nbsp; <img src="https://img.shields.io/badge/Deployed-1B2A4A?style=flat-square" /></h4>
+
+**Bangladesh Army &nbsp;|&nbsp; 2021**
+
+Real-time multiplayer VR training for **16 simultaneous trainees** — haptic suit integration (bHaptics TactSuit), physics-based weapon mechanics, Photon multiplayer. Built for HTC Vive Pro and Meta Quest 2. Not a game. Stakes were real.
+
+![Unity](https://img.shields.io/badge/Unity-555?style=flat-square&logo=unity&logoColor=white)
+![VR](https://img.shields.io/badge/HTC%20Vive-00B5E2?style=flat-square)
+![Photon](https://img.shields.io/badge/Photon-004EC2?style=flat-square)
+
+</td>
+
+<td width="50%" valign="top">
+<h4>⚔️ &nbsp; AlexanderBall: A Countryball Tale &nbsp; <a href="https://store.steampowered.com/app/2379780/AlexanderBall_A_Countryball_Tale/"><img src="https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white" /></a></h4>
+
+**Red Thorn Interactive &nbsp;|&nbsp; 2024**
+
+Play-Pause RTS grand strategy game on Steam — Windows, macOS, Linux. Led full development: architecture, gameplay systems, backend, CI/CD pipeline, and project management.
+
+![Unity](https://img.shields.io/badge/Unity-555?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h4>🌌 &nbsp; Kingdom of the Cosmos &nbsp; <img src="https://img.shields.io/badge/In%20Development-E8640A?style=flat-square" /></h4>
+
+**Red Thorn Interactive &nbsp;|&nbsp; 2023 → Present**
+
+Bullet hell game targeting **Switch · PS5 · Xbox · PC · Mobile**. System architect, gameplay programmer, GPU programmer, and backend developer. The most technically ambitious project in my catalogue.
+
+![Unity](https://img.shields.io/badge/Unity-555?style=flat-square&logo=unity&logoColor=white)
+![GPU](https://img.shields.io/badge/GPU%20Programming-76B900?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+<h4>🚀 &nbsp; Project L.I.F.E. &nbsp; <img src="https://img.shields.io/badge/NASA%20Top%2010%20Global-0B3D91?style=flat-square&logo=nasa&logoColor=white" /></h4>
+
+**BRAC University · NASA Space Apps 2019**
+
+VR Mars survival game built using real NASA open data. Team *Ducks in Disguise* reached the **global top 10** out of thousands of international submissions. The project that proved interactive experiences can reach anywhere.
+
+![Unity](https://img.shields.io/badge/Unity-555?style=flat-square&logo=unity&logoColor=white)
+![VR](https://img.shields.io/badge/VR%20Cross--Platform-7B2FBE?style=flat-square)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ─────────────────────────────────────────────
+     TECH STACK
+     ───────────────────────────────────────────── -->
+
+### 🛠️ &nbsp; Tech Stack
+
+<br/>
+
+**Game Engines**
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-</div>
-
-**💻 Languages**
-
-<div align="left">
+**Languages**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -126,11 +235,7 @@ What should this feel like?
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-</div>
-
-**⚙️ Backend & Web**
-
-<div align="left">
+**Backend & Web**
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -138,24 +243,23 @@ What should this feel like?
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-</div>
-
-**🥽 XR & Simulation**
-
-<div align="left">
+**XR & Simulation**
 
 ![Meta Quest](https://img.shields.io/badge/Meta%20Quest-1C1E20?style=for-the-badge&logo=meta&logoColor=white)
-![HTC Vive](https://img.shields.io/badge/HTC%20Vive-00B5E2?style=for-the-badge&logo=htc&logoColor=white)
+![HTC Vive](https://img.shields.io/badge/HTC%20Vive-00B5E2?style=for-the-badge)
 ![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Photon](https://img.shields.io/badge/Photon%20Networking-004EC2?style=for-the-badge&logoColor=white)
-![bHaptics](https://img.shields.io/badge/bHaptics-E8640A?style=for-the-badge&logoColor=white)
+![Photon](https://img.shields.io/badge/Photon%20Networking-004EC2?style=for-the-badge)
+![bHaptics](https://img.shields.io/badge/bHaptics-E8640A?style=for-the-badge)
 
-</div>
+**Architecture & Patterns**
 
-**🛠️ Tools & DevOps**
+![SOLID](https://img.shields.io/badge/SOLID-1B2A4A?style=for-the-badge)
+![Zenject](https://img.shields.io/badge/Zenject%20DI-374151?style=for-the-badge)
+![UniRx](https://img.shields.io/badge/UniRx%20%2F%20UniTask-374151?style=for-the-badge)
+![Scriptable Objects](https://img.shields.io/badge/Scriptable%20Object%20Architecture-374151?style=for-the-badge)
 
-<div align="left">
+**Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -163,301 +267,111 @@ What should this feel like?
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-</div>
-
 <br/>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║              FEATURED PROJECTS                      ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-## 🚀 &nbsp; Featured Projects
-
-<!-- Row 1 -->
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏭 &nbsp; Idle Miner Tycoon
-[![Google Play](https://img.shields.io/badge/Google%20Play-Live-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.kolibrigames.idleminertycoon)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-Live mobile tycoon game at **Kolibri Games (Ubisoft Mobile)**. Feature development, LiveOps, and backend integration for a game with **100,000+ daily active users** across iOS and Android.
-
-`#LiveOps` `#FeatureDev` `#MobileGaming` `#Ubisoft`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ &nbsp; Museum Keeper
-[![Steam](https://img.shields.io/badge/Steam-Released-1b2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/2708780/Museum_Keeper/)
-[![Rating](https://img.shields.io/badge/Reviews-93%25%20Positive-brightgreen?style=flat-square)](https://store.steampowered.com/app/2708780/Museum_Keeper/)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-Museum management tycoon shipped to **Windows, macOS, Linux, Nintendo Switch**. Led a 9-person team as system architect, lead programmer, and project manager — from concept to launch.
-
-`#LeadDev` `#Steam` `#MultiPlatform` `#93PercentPositive`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌌 &nbsp; Kingdom of the Cosmos
-[![Status](https://img.shields.io/badge/Status-In%20Development-E8640A?style=flat-square)](https://github.com/shadmanArko)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
-![GPU](https://img.shields.io/badge/GPU%20Programming-green?style=flat-square)
-
-Bullet hell game targeting **Switch, PS5, Xbox, PC, Mobile**. System architect, gameplay programmer, GPU programmer, and backend developer. The most technically ambitious project in my catalogue.
-
-`#BulletHell` `#GPUProgramming` `#ConsolePorting` `#InDev`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚔️ &nbsp; AlexanderBall: A Countryball Tale
-[![Steam](https://img.shields.io/badge/Steam-Released-1b2838?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/2379780/AlexanderBall_A_Countryball_Tale/)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-Play-Pause RTS grand strategy on Steam — Windows, macOS, Linux. Led full development: architecture, gameplay, backend, and project management. Alexander the Great never looked this round.
-
-`#GrandStrategy` `#RTS` `#Steam` `#CountryballUniverse`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎖️ &nbsp; SAFS — Military VR Simulator
-[![Status](https://img.shields.io/badge/Deployed-Bangladesh%20Army-1B2A4A?style=flat-square)](https://github.com/shadmanArko)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
-![VR](https://img.shields.io/badge/VR-HTC%20Vive%20%2F%20Quest%202-00B5E2?style=flat-square)
-
-Small Arms Firing Simulator built for the **Bangladesh Army**. Supports **16 simultaneous trainees**, haptic suit integration (bHaptics TactSuit), real-time physics weapon mechanics, and Photon multiplayer. Not a game. Stakes were real.
-
-`#MilitarySimulation` `#VR` `#Haptics` `#Photon` `#MissionCritical`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 &nbsp; Project L.I.F.E.
-[![NASA](https://img.shields.io/badge/NASA%20Space%20Apps-Top%2010%20Global-E8640A?style=flat-square&logo=nasa&logoColor=white)](https://github.com/shadmanArko)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
-![VR](https://img.shields.io/badge/VR-Cross%20Platform-purple?style=flat-square)
-
-VR game built for **NASA Space Apps Challenge 2019** — survive on Mars using real NASA open data. Team *Ducks in Disguise* reached the **global top 10** out of thousands of submissions worldwide.
-
-`#NASA` `#SpaceApps` `#Top10Global` `#MarsSimulation` `#VR`
-
-</td>
-</tr>
-</table>
-
-</div>
-
 <br/>
 
----
+<!-- ─────────────────────────────────────────────
+     CAREER TIMELINE
+     ───────────────────────────────────────────── -->
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║              GITHUB STATS                           ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-## 📊 &nbsp; GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadmanArko&show_icons=true&theme=dark&bg_color=0D1117&title_color=E8640A&icon_color=E8640A&text_color=C9D1D9&border_color=1B2A4A&hide_border=false&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanArko&layout=compact&theme=dark&bg_color=0D1117&title_color=E8640A&text_color=C9D1D9&border_color=1B2A4A&hide_border=false&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=shadmanArko&theme=dark&background=0D1117&border=1B2A4A&ring=E8640A&fire=E8640A&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=E8640A&sideLabels=6B7280&dates=6B7280" />
-
-</div>
+### 🗺️ &nbsp; Career Timeline
 
 <br/>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║              TROPHY CASE                            ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-## 🏆 &nbsp; Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shadmanArko&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║            CONTRIBUTION GRAPH                       ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-## 📈 &nbsp; Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shadmanArko&bg_color=0D1117&color=E8640A&line=1B2A4A&point=E8640A&area=true&area_color=E8640A&hide_border=false&border_color=1B2A4A&custom_title=Shadman's%20Contribution%20Graph" width="100%" />
-
-</div>
-
-<br/>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║               CAREER JOURNEY                        ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-## 🗺️ &nbsp; Career Journey
 
 ```
-🟠 2025 → Present  │  Kolibri Games (Ubisoft Mobile) — Unity Developer
-                   │  Idle Miner Tycoon · 100K+ DAU · Berlin, Germany
-                   │
-🔵 2022 → 2024     │  Red Thorn Interactive — Senior Software Engineer & Lead Dev
-                   │  Museum Keeper (93% Steam) · AlexanderBall · Kingdom of the Cosmos
-                   │
-🔵 2021 → 2022     │  Brain Station 23 — Software Engineer (Interactive)
-                   │  10+ client projects · Unity · Unreal · ASP.NET · Flutter
-                   │
-🟢 2020 → 2021     │  Bangladesh Army — VR/Simulation Developer
-                   │  Small Arms Firing Simulator · Radio Communication Simulator
-                   │
-🟣 2019 → 2020     │  Dreamerz Lab — Junior Software Engineer (VR/AR)
-                   │  XR applications · ARCore · ARKit · Enterprise clients
-                   │
-⭐ 2019             │  NASA Space Apps Challenge — Top 10 Globally
-                   │  Project L.I.F.E. · Team Ducks in Disguise · Mars VR Survival
-                   │
-🎓 2016 → 2023     │  BRAC University — BSc Computer Science
-                   │  Dhaka, Bangladesh
+  2025 → Present   Kolibri Games (Ubisoft Mobile)   Unity Developer
+                   Idle Miner Tycoon · 100K+ DAU · Berlin, Germany
+  ────────────────────────────────────────────────────────────────
+  2022 → 2024      Red Thorn Interactive             Senior Engineer & Lead Dev
+                   Museum Keeper · AlexanderBall · Kingdom of the Cosmos
+  ────────────────────────────────────────────────────────────────
+  2021 → 2022      Brain Station 23                  Software Engineer
+                   10+ international projects · Unity · Unreal · ASP.NET · Flutter
+  ────────────────────────────────────────────────────────────────
+  2020 → 2021      Bangladesh Army                   VR / Simulation Developer
+                   Small Arms Firing Simulator · Radio Communication Simulator
+  ────────────────────────────────────────────────────────────────
+  2019 → 2020      Dreamerz Lab                      Junior Engineer (VR / AR)
+                   XR applications · ARCore · ARKit · Enterprise clients
+  ────────────────────────────────────────────────────────────────
+  2019             NASA Space Apps Challenge          Top 10 Globally
+                   Project L.I.F.E. · Team Ducks in Disguise
+  ────────────────────────────────────────────────────────────────
+  2016 → 2023      BRAC University                   BSc Computer Science
+                   Dhaka, Bangladesh
 ```
 
 <br/>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║            CERTIFICATIONS                           ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<br/>
 
-## 🎖️ &nbsp; Certifications & Achievements
+<!-- ─────────────────────────────────────────────
+     CERTIFICATIONS
+     ───────────────────────────────────────────── -->
 
-<div align="left">
+### 🎖️ &nbsp; Certifications & Recognition
 
-| &nbsp; | Credential | Issuer | Year |
+<br/>
+
+| &nbsp; | Credential | Institution | Year |
 |:---:|:---|:---|:---:|
 | 🏅 | **Game Development for Modern Platforms** | Michigan State University · Coursera | 2020 |
 | 🚀 | **NASA Space Apps Challenge — Top 10 Global** | NASA / BASIS | 2019 |
-| 🥽 | **VR/AR Hands-On Training Program** | BRAC University (CVIS Lab) | 2019 |
-| 🎮 | **Game Development — 18-Day Training** | BRAC University (CVIS Lab) | 2018 |
-| 🏆 | **Certificate of Excellence — Simulated 3D Environment** | BRAC Univ. Natural Sciences Club | 2017 |
-| 🔧 | **VRCON Workshop — VR Game Dev with Unity** | Bangladesh Innovation Forum | 2019 |
-| 🔧 | **VRCON Workshop — VR Pipeline** | Bangladesh Innovation Forum | 2019 |
-
-</div>
+| 🥽 | **Virtual & Augmented Reality — Hands-On Training** | BRAC University · CVIS Lab | 2019 |
+| 🎮 | **Game Development — 18-Day Training Program** | BRAC University · CVIS Lab | 2018 |
+| 🏆 | **Certificate of Excellence — Simulated 3D Environment** | BRAC University Natural Sciences Club | 2017 |
+| 🔧 | **Workshop: VR Game Development with Unity** | VRCON · Bangladesh Innovation Forum | 2019 |
+| 🔧 | **Workshop: VR Pipeline** | VRCON · Bangladesh Innovation Forum | 2019 |
 
 <br/>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║         WHAT I'M CURRENTLY DOING                    ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-## 🔭 &nbsp; Currently
-
-```javascript
-const shadman = {
-  currently:    "Shipping live features @ Kolibri Games (Ubisoft Mobile)",
-  building:     "Idle Miner Tycoon — 100K+ daily players",
-  location:     "Berlin, Germany 🇩🇪",
-  workPermit:   true,
-  openTo:       ["Senior Unity roles", "Lead Dev positions", "Exciting game projects"],
-  philosophy:   "What should this feel like?",
-  funFact:      "My code has been used by real soldiers in VR training 🎖️"
-};
-```
-
 <br/>
 
----
-
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║              CONNECT WITH ME                        ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-## 🤝 &nbsp; Let's Connect
+<!-- ─────────────────────────────────────────────
+     CONNECT
+     ───────────────────────────────────────────── -->
 
 <div align="center">
 
-*I am always open to discussing exciting projects, game development challenges, or collaboration opportunities.*
+### &nbsp; Let's Build Something
+
+*Open to senior engineering roles, lead developer positions, and projects worth caring about.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadman-arko-6a15179a)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-E8640A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadman.arko@gmail.com)
-&nbsp;
-[![Steam](https://img.shields.io/badge/Steam-My%20Games-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Red%20Thorn%20Interactive)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadman-arko-6a15179a)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-E8640A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadman.arko@gmail.com)
+&nbsp;&nbsp;
+[![Steam](https://img.shields.io/badge/My%20Games%20on%20Steam-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Red%20Thorn%20Interactive)
+
+<br/>
+<br/>
+
+*"The technology changes with every project.*
+*The question underneath never does —*
+***what should this feel like?"***
 
 <br/>
 
-> *"Some people write code. I build worlds."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:0D1117&height=100&section=footer" width="100%" />
 
 </div>
 
-<br/>
-
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║                  FOOTER WAVE                        ║
-     ╚══════════════════════════════════════════════════════╝ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════
-     HOW TO SET UP THIS PROFILE README
-     ═══════════════════════════════════════════════════════════════
-     1. Go to GitHub.com and create a NEW repository
-     2. Name it EXACTLY: shadmanArko  (same as your username)
-     3. Make it Public
-     4. Check "Add a README file"
-     5. Replace the README content with this file
-     6. Commit — your profile will update within seconds!
-
-     OPTIONAL EXTRAS (make it even more impressive):
-     ─────────────────────────────────────────────────
-     Snake Contribution Animation:
-     → Go to your repo → Actions → New workflow
-     → Create a file: .github/workflows/snake.yml
-     → Content: https://github.com/Platane/snk
-     → Then add this img tag to your README:
-       <img src="https://raw.githubusercontent.com/shadmanArko/shadmanArko/output/github-contribution-grid-snake-dark.svg" />
-
-     Spotify Now Playing (optional):
-     → https://github.com/novatorem/novatorem
-
-     WakaTime Coding Stats (optional, tracks your coding time):
-     → https://github.com/athul/waka-readme
-     ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════
+     SETUP INSTRUCTIONS
+     ═══════════════════════════════════════════════════════════
+     1. Go to github.com → New repository
+     2. Name it EXACTLY:  shadmanArko  (your username)
+     3. Set visibility: Public
+     4. Tick "Add a README file" → Create repository
+     5. Edit the README → paste this entire file → Commit
+     6. Visit github.com/shadmanArko — live immediately
+     ═══════════════════════════════════════════════════════════ -->
