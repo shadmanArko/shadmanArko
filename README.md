@@ -46,7 +46,7 @@
 
 <br/>
 
-I am a **Software Engineer and Game Developer** with **6+ years** of professional experience — recently I worked as a Unity developer at **Kolibri Games, part of Ubisoft Mobile**, worked on *Idle Miner Tycoon* in **Berlin**.
+I am a **Software Engineer and Game Developer** with **6+ years** of professional experience — recently I have worked as a Unity developer at **Kolibri Games, part of Ubisoft Mobile**, worked on *Idle Miner Tycoon* in **Berlin**.
 
 My career began in Dhaka, Bangladesh, building augmented reality applications for enterprise clients — learning early that the most powerful thing code can do is make people *feel* something they did not expect to feel. That conviction has driven every project since.
 
