@@ -46,7 +46,7 @@
 
 <br/>
 
-I am a **Software Engineer and Game Developer** with **6+ years** of professional experience — currently a Unity developer at **Kolibri Games, part of Ubisoft Mobile**, working on *Idle Miner Tycoon* in **Berlin**.
+I am a **Software Engineer and Game Developer** with **6+ years** of professional experience — recently I worked as a Unity developer at **Kolibri Games, part of Ubisoft Mobile**, worked on *Idle Miner Tycoon* in **Berlin**.
 
 My career began in Dhaka, Bangladesh, building augmented reality applications for enterprise clients — learning early that the most powerful thing code can do is make people *feel* something they did not expect to feel. That conviction has driven every project since.
 
@@ -122,7 +122,7 @@ The technology changes with every project. The question underneath never does: *
 <td width="50%" valign="top">
 <h4>🏭 &nbsp; Idle Miner Tycoon &nbsp; <a href="https://play.google.com/store/apps/details?id=com.kolibrigames.idleminertycoon"><img src="https://img.shields.io/badge/Live-34A853?style=flat-square&logo=google-play&logoColor=white" /></a></h4>
 
-**Kolibri Games · Ubisoft Mobile &nbsp;|&nbsp; 2025 → Present**
+**Kolibri Games · Ubisoft Mobile &nbsp;|&nbsp; 2025**
 
 Live mobile tycoon with **100,000+ daily active users**. Feature development, tool building, LiveOps support, and client-backend integration across iOS and Android.
 
@@ -282,7 +282,7 @@ VR Mars survival game built using real NASA open data. Team *Ducks in Disguise* 
 <br/>
 
 ```
-  2025 → Present   Kolibri Games (Ubisoft Mobile)   Unity Developer
+  2025             Kolibri Games (Ubisoft Mobile)   Unity Developer
                    Idle Miner Tycoon · 100K+ DAU · Berlin, Germany
   ────────────────────────────────────────────────────────────────
   2022 → 2024      Red Thorn Interactive             Senior Engineer & Lead Dev
