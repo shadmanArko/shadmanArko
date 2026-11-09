@@ -15,14 +15,16 @@ I'm the **Forward Deployed AI Engineer at Dhaka Kacchi**, a Berlin cloud kitchen
 * **[Market intelligence platform](https://github.com/shadmanArko/MarketIntelligence-Data-Platform)** — every Berlin restaurant from 13 sources into an ML-ready Postgres/dbt warehouse (1.87M posts).
 * **Live ML services** — [dish classifier](https://classifier.dhakakacchi.com/) (fine-tuned ViT, [on Hugging Face](https://huggingface.co/shadmanArko/dhaka-kacchi-dish-classifier)) and [review intelligence](https://reviews.dhakakacchi.com/) on AWS.
 
+**[NYC Taxi Lakehouse](https://github.com/shadmanArko/nyc-taxi-lakehouse)** — a client-first data lakehouse: S3 + Terraform, dbt bronze/silver/gold on DuckDB and Databricks, Airflow, CI; 146k rows, 518 quarantined with reasons, Gold reconciles 100% to source.
+
 Also: **DienstPilot** (hospital duty scheduling with a physician — CP-SAT + ML + a Claude copilot; 0 hard-rule violations vs 5 manual), a **[0.8B invoice-approval model](https://github.com/shadmanArko/rebel-alliance)** distilled to 93% of its teacher at GTC Berlin Builders Night, and an open-source **[ML engineering protocol for Claude Code](https://github.com/shadmanArko/ml-pipeline-skills)**.
 
 ---
 
 ### 🛠 Tech
 **AI / ML:** Python · PyTorch · Transformers · scikit-learn · LangGraph · MCP · RAG · vLLM · LoRA · OR-Tools · MLflow · Langfuse
-**Data:** SQL · PostgreSQL · pgvector · dbt · DuckDB · Polars · Dagster
-**Engineering:** C# · C++ · TypeScript · Java · Kotlin · FastAPI · ASP.NET Core · Docker · AWS · CI/CD
+**Data:** SQL · PostgreSQL · pgvector · dbt · Databricks · Delta Lake · Airflow · DuckDB · Polars · Dagster
+**Engineering:** C# · C++ · TypeScript · Java · Kotlin · FastAPI · ASP.NET Core · Docker · AWS · Terraform · CI/CD
 **Games & XR:** Unity · Godot · Unreal · Photon · VR/AR
 
 ### 🕹 Shipped before AI
