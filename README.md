@@ -22,7 +22,7 @@ Also: **DienstPilot** (hospital duty scheduling with a physician — CP-SAT + ML
 ---
 
 ### 🛠 Tech
-**AI / ML:** Python · PyTorch · Transformers · scikit-learn · LangGraph · MCP · RAG · vLLM · LoRA · OR-Tools · MLflow · Langfuse
+**AI / ML:** Python · PyTorch · Transformers · scikit-learn · LangGraph · MCP · RAG · vLLM · LoRA · OR-Tools · Amazon SageMaker · MLflow · Langfuse
 **Data:** SQL · PostgreSQL · pgvector · dbt · Databricks · Delta Lake · Airflow · DuckDB · Polars · Dagster
 **Engineering:** C# · C++ · TypeScript · Java · Kotlin · FastAPI · ASP.NET Core · Docker · AWS · Terraform · CI/CD
 **Games & XR:** Unity · Godot · Unreal · Photon · VR/AR
